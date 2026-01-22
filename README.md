@@ -1,2 +1,2 @@
-# Portfolio-Academique-
+# Portfolio-Académique
 Ce dépôt regroupe l’ensemble de mes projets académiques, réalisés individuellement et en équipe.
