@@ -28,4 +28,15 @@ au travail collaboratif et à la documentation.
 - **Matériel / FPGA** : VHDL, DE10-Lite, VGA
 - **Méthodologies** : Travail en équipe, Git, documentation technique
 
+## 📁 Projets
+
+Les projets sont organisés par dossier.
+Chaque dossier contient :
+- une description du projet
+- les technologies utilisées
+- le contexte académique
+- ma contribution personnelle
+- un lien vers le dépôt original (le cas échéant)
+
+
 
